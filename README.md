@@ -1,6 +1,6 @@
 # Projects
 polymerlabs
-initia
+initia & ecosystem
 babylon
 Esp
 hyperlane
