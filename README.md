@@ -10,4 +10,4 @@ blockchain + ai
 projects using eigen da
 blast eco
 ALEX
-xio
+burnt
