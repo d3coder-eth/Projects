@@ -2,6 +2,7 @@
 polymerlabs
 initia & ecosystem
 babylon
+fuel
 Esp
 hyperlane
 layerN
