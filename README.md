@@ -12,4 +12,4 @@ projects using eigen da
 blast eco
 monad eco
 EigenDA
-btc l2s, rune
+btc l2s, runes
