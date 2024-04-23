@@ -13,3 +13,4 @@ blast eco
 monad eco
 EigenDA
 btc l2s, runes
+avail eco
