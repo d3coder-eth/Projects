@@ -17,4 +17,5 @@ avail eco
 0G
 mintchain
 movement
+risc zero
 inco network
