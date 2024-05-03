@@ -17,4 +17,4 @@ avail eco
 0G
 mintchain
 movement
-inco
+inco network
