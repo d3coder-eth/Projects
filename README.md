@@ -19,4 +19,4 @@ mintchain
 movement
 risc zero
 inco network
-rwa chains
+rwa chains backed by vc
