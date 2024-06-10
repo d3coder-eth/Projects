@@ -20,3 +20,4 @@ rwa chains backed by vc
 plum
 catalyst
 restaking
+nubit
