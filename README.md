@@ -21,3 +21,4 @@ plum
 catalyst
 restaking
 nubit
+inco
