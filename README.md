@@ -22,3 +22,4 @@ catalyst
 restaking
 nubit
 inco
+symbiotec
