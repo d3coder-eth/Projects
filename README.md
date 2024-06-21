@@ -25,3 +25,5 @@ inco
 symbiotec
 ai cat
 svm
+airchain
+sonic
