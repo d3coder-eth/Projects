@@ -26,3 +26,4 @@ ai cat
 svm
 airchain
 sonic
+FHE
