@@ -27,3 +27,4 @@ svm
 airchain
 sonic
 FHE
+megaeth
